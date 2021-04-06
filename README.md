@@ -1,3 +1,5 @@
+You can see the results of the notebook here:- https://www.kaggle.com/chhinna/mnist-attack
+
 We didn't know much about adversarial attacks, so we read about it
 and were quite fascinated by the concept.
 
